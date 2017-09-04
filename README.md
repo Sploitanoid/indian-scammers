@@ -1,7 +1,7 @@
 # indian-scammers
 Repository of all Indian Scammers that have been ratted (include ips)
 
-#Please make sure to include all scammers ips
+#Please make sure to include all scammers domain names e.g: "www.scammerswebsite.com/"
 #make sure to change passwords on all social platforms and emails
 #Ransomware if feeling like it
 #steal files form their computer
